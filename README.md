@@ -1,6 +1,6 @@
 # SEGAD
 
-![](https://github.com/Junyi-Yan/Junyi-Yan.github.io/blob/main/Picture/TKDE2025.png)
+![](https://github.com/Junyi-Yan/Junyi-Yan.github.io/blob/main/Picture/SEGAD.png)
 
 # Overview
 Our implementation for SEGAD is based on PyTorch. 
