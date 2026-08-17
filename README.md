@@ -21,5 +21,6 @@ This code requires the following:
 - DGL-cu111==0.6.1 (Do not use the version which is newer than that!)
 
 # Usage
+```
 python run.py
 ```
