@@ -6,7 +6,7 @@
 Our implementation for SEGAD is based on PyTorch. 
 
 # Datasets
-Datasets can be obtained from google drive link (https://drive.google.com/drive/folders/1zvXVEArei1UPy78EXewDPNsyYBOvYIrw). We sincerely thank the researchers for providing these datasets. Due to the Copyright of DGraph-Fin, you need to download from DGraph-Fin (https://dgraph.xinye.com/introduction).
+Datasets can be obtained from [google drive link] (https://drive.google.com/drive/folders/1zvXVEArei1UPy78EXewDPNsyYBOvYIrw). We sincerely thank the researchers for providing these datasets. Due to the Copyright of DGraph-Fin, you need to download from [DGraph-Fin] (https://dgraph.xinye.com/introduction).
 
 # Requirments
 This code requires the following:
