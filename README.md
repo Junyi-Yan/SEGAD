@@ -25,3 +25,11 @@ This code requires the following:
 ```
 python run.py
 ```
+
+# Acknowledgement and Reference
+[1] Qiao, Hezhe, et al. "Generative semi-supervised graph anomaly detection." NeurIPS 2024.
+[2] Huang, Xuanwen, et al. "Dgraph: A large-scale financial dataset for graph anomaly detection." NeurIPS 2022.
+[3] Ai, Guoguo, et al. “Semi-supervised graph anomaly detection via robust homophily learning.” NeurIPS 2026.
+[4] Tang, Jianheng, et al. "GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection." NeurIPS 2023.
+[5] Liu, Yixin, et al. "Graph self-supervised learning: A survey." TKDE 2022.
+[6] Ma, Xiaoxiao, et al. "A comprehensive survey on graph anomaly detection with deep learning." TKDE 2021.
